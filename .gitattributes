@@ -1,0 +1,9 @@
+* text auto=auto
+*.prefab text eol=lf
+*.meta text eol=lf
+*.scene text eol=lf
+*.unity text eol=lf
+*.cs text
+*.md text
+*.psd binary
+*.png binary
