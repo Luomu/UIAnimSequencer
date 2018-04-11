@@ -345,7 +345,7 @@ public class LeanTween : MonoBehaviour {
             }
         }
         tweens = null;
-        Destroy(_tweenEmpty);
+        DestroyImmediate(_tweenEmpty);
     }
 
     public void Update(){
